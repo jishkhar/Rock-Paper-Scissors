@@ -1,1 +1,1 @@
-https://rock-paper-scissors-beryl-eta-89.vercel.app/
+https://rock-paper-scissors-bice-eight.vercel.app/
